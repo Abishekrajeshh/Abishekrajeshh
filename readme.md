@@ -3,7 +3,7 @@
 # ⚜️ About Me:
 I’m currently working on:<br>Innovative AI-driven projects like chatbot development using Llama, RAG pipelines, and advanced analytics to empower cryptocurrency trading decisions.<br><br>I’m looking to collaborate on:<br>Data science and AI projects involving generative AI, financial forecasting, or developing powerful dashboards to enhance business insights and decision-making.<br><br>I’m looking for help with:<br>Expanding my expertise in cloud-native solutions, advanced ETL processes, and cutting-edge AI model fine-tuning for optimized performance.<br><br>I’m currently learning:<br>Cloud-based AI pipelines, predictive modeling with SAS, and leveraging Modern Portfolio Theory for financial analysis.<br><br>Ask me about:<br> • Enhancing trading insights through cryptocurrency analytics.<br> • Developing robust data pipelines for efficient data processing.<br> • Designing interactive dashboards that drive impactful decisions.<br><br>Fun fact:<br>I’m a tech enthusiast who balances coding sprints with marathon training and loves analyzing data for fun—debating whether coffee or energy drinks fuel better ideas!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishekrajesh/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abishekrajeshh) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://abishekrajeshh.medium.com/) 
@@ -51,7 +51,7 @@ I’m currently working on:<br>Innovative AI-driven projects like chatbot develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abishekrajeshh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekrajeshh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
