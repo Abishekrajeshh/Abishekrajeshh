@@ -1,6 +1,6 @@
 # Abishek Karnan Rajesh
 
-# 💫 About Me:
+# ⚜️ About Me:
 I’m currently working on:<br>Innovative AI-driven projects like chatbot development using Llama, RAG pipelines, and advanced analytics to empower cryptocurrency trading decisions.<br><br>I’m looking to collaborate on:<br>Data science and AI projects involving generative AI, financial forecasting, or developing powerful dashboards to enhance business insights and decision-making.<br><br>I’m looking for help with:<br>Expanding my expertise in cloud-native solutions, advanced ETL processes, and cutting-edge AI model fine-tuning for optimized performance.<br><br>I’m currently learning:<br>Cloud-based AI pipelines, predictive modeling with SAS, and leveraging Modern Portfolio Theory for financial analysis.<br><br>Ask me about:<br> • Enhancing trading insights through cryptocurrency analytics.<br> • Developing robust data pipelines for efficient data processing.<br> • Designing interactive dashboards that drive impactful decisions.<br><br>Fun fact:<br>I’m a tech enthusiast who balances coding sprints with marathon training and loves analyzing data for fun—debating whether coffee or energy drinks fuel better ideas!
 
 ## 🌐 Socials:
