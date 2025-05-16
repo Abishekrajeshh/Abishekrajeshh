@@ -1,6 +1,5 @@
-<h1 align="center">Hello 👋 Abishek Karnan Rajesh 
+<h1 align="center">Hello there 👋 this is Abishek Karnan Rajesh 
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=1000&lines=Hello!+I+am+Working+as+Business+Intelligence+Analyst+at+Uconn+Health;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 
 # ⚜️ About Me  
 
