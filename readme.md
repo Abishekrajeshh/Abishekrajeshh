@@ -1,28 +1,30 @@
 <h1 align="center">Hello there 👋 this is Abishek Karnan Rajesh 
 
 
-# ⚜️ About Me  
+### ⚜️ About Me
 
-🚀 **Currently Working On:**  
-Transforming **data into actionable insights** through **Business Intelligence, Data Analytics, and Visualization**. I specialize in **building interactive dashboards, optimizing ETL pipelines, and leveraging AI-driven analytics** to enhance business decision-making.  
+🚀 **Currently Working On:**
+Driving financial strategy and profitability through **Financial Planning & Analysis (FP&A), financial modeling, and strategic planning**. I specialize in **building complex financial models (DCF, LBO, 3-statement)**, **conducting insightful variance analysis**, and **automating financial reporting** with SQL and Power BI.
 
-🤝 **Looking to Collaborate On:**  
-- **BI & Data Analytics** projects focused on KPI tracking, financial forecasting, and AI-powered insights.  
-- **Developing scalable data pipelines** for real-time reporting and automation.  
-- **Optimizing cloud-based BI solutions** using Snowflake, Redshift, and BigQuery.  
+🤝 **Looking to Collaborate On:**
+- **FP&A projects** focused on budgeting, forecasting, and P&L management.
+- **M&A and investment banking mandates** requiring due diligence and 3-statement modeling.
+- **Automating variance and performance reporting** using Power BI and SQL.
 
-📚 **Currently Learning:**  
-- **Advanced Tableau & Power BI techniques** for effective data storytelling.  
-- **Predictive modeling & financial analysis** for strategic decision-making.  
-- **Cloud-based data warehousing** for scalable business intelligence.  
+📚 **Currently Learning:**
+- **Advanced M&A valuation techniques** and LBO modeling.
+- **Integrating predictive analytics** into long-range financial forecasting.
+- **Advanced financial systems** like Anaplan and Oracle Hyperion.
 
-💡 **Ask Me About:**  
-- 📊 **Designing dashboards** that drive data-driven decisions.  
-- 🔄 **Optimizing ETL workflows** for seamless data integration.  
-- 📈 **Financial forecasting** with AI-powered analytics.  
+💡 **Ask Me About:**
+- 📊 **Building a 3-statement financial model** from scratch.
+- 📉 **Analyzing P&L variance** to find cost-saving opportunities.
+- 📈 **Creating automated Power BI dashboards** for financial KPIs (like MLR or revenue).
 
-🎉 **Fun Fact:**  
-I enjoy **analyzing trends, automating workflows, and turning data into impactful stories**—all while debating whether **coffee or energy drinks fuel better insights!**  
+🎉 **Fun Fact:**
+I enjoy **digging through financial statements to find the 'story' behind the numbers**—all while debating whether **Excel or Power BI is the ultimate tool for financial analysis!**
+
+---
  
 # 🌐 Socials  
 
@@ -32,6 +34,36 @@ I enjoy **analyzing trends, automating workflows, and turning data into impactfu
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23111111?style=for-the-badge&logo=netlify&logoColor=white)](https://abishekrajesh.netlify.app/)
 
 ## 💻 **Key Technologies**
+
+## 📈 **Finance & Corporate Strategy**
+
+### 💼 FP&A and Analysis
+
+![Financial Planning & Analysis](https://img.shields.io/badge/FP&A-00529B?style=for-the-badge) 
+![Budgeting](https://img.shields.io/badge/Budgeting-00529B?style=for-the-badge) 
+![Forecasting](https://img.shields.io/badge/Forecasting-00529B?style=for-the-badge) 
+![Variance Analysis](https://img.shields.io/badge/Variance%20Analysis-00529B?style=for-the-badge) 
+![P&L Management](https://img.shields.io/badge/P&L%20Management-00529B?style=for-the-badge) 
+![Financial Statement Analysis](https://img.shields.io/badge/Financial%20Statement%20Analysis-00529B?style=for-the-badge) 
+
+### 🏦 Corporate Finance & Modeling
+
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-003366?style=for-the-badge) 
+![DCF Modeling](https://img.shields.io/badge/DCF%20Modeling-003366?style=for-the-badge) 
+![LBO Modeling](https://img.shields.io/badge/LBO%20Modeling-003366?style=for-the-badge) 
+![M&A Support](https://img.shields.io/badge/M&A%20Support-003366?style=for-the-badge) 
+![Due Diligence](https://img.shields.io/badge/Due%20Diligence-003366?style=for-the-badge) 
+
+### 🛠️ Financial Systems
+
+![Oracle Hyperion](https://img.shields.io/badge/Oracle%20Hyperion-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Anaplan](https://img.shields.io/badge/Anaplan-0046AB?style=for-the-badge&logo=anaplan&logoColor=white) 
+
+### 🧾 Accounting & Compliance
+
+![GAAP Compliance](https://img.shields.io/badge/GAAP%20Compliance-6C757D?style=for-the-badge) 
+![Financial Auditing](https://img.shields.io/badge/Financial%20Auditing-6C757D?style=for-the-badge) 
+![Internal Controls](https://img.shields.io/badge/Internal%20Controls-6C757D?style=for-the-badge)
 
 ### 🧑‍💻 Programming Languages
 
